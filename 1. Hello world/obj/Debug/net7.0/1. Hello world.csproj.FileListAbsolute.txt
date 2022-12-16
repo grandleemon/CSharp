@@ -1,0 +1,15 @@
+D:\Projects\C#\1. Hello world\bin\Debug\net7.0\1. Hello world.exe
+D:\Projects\C#\1. Hello world\bin\Debug\net7.0\1. Hello world.deps.json
+D:\Projects\C#\1. Hello world\bin\Debug\net7.0\1. Hello world.runtimeconfig.json
+D:\Projects\C#\1. Hello world\bin\Debug\net7.0\1. Hello world.dll
+D:\Projects\C#\1. Hello world\bin\Debug\net7.0\1. Hello world.pdb
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.csproj.AssemblyReference.cache
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.AssemblyInfoInputs.cache
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.AssemblyInfo.cs
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.csproj.CoreCompileInputs.cache
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.dll
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\refint\1. Hello world.dll
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.pdb
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\1. Hello world.genruntimeconfig.cache
+D:\Projects\C#\1. Hello world\obj\Debug\net7.0\ref\1. Hello world.dll
